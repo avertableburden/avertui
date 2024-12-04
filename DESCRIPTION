@@ -11,6 +11,7 @@ BugReports: https://github.com/avertableburden/avertui/issues
 Imports: 
     config,
     golem,
+    pkgload,
     shiny
 Suggests: 
     spelling,

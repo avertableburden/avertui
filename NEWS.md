@@ -1,3 +1,3 @@
 # avertui (development version)
 
-* Initial CRAN submission.
+* Placeholder version for now.
