@@ -7,3 +7,9 @@ $run_dev.*
 ^.here$
 ^README\.Rmd$
 ^CODE_OF_CONDUCT\.md$
+^codecov\.yml$
+^\.github$
+^\.circleci$
+^\.circleci/config\.yml$
+^Makefile$
+^Jenkinsfile$
