@@ -13,3 +13,4 @@ $run_dev.*
 ^\.circleci/config\.yml$
 ^Makefile$
 ^Jenkinsfile$
+^LICENSE\.md$

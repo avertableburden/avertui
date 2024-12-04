@@ -5,7 +5,7 @@ Authors@R:
     person("Matthew", "Hamilton", , "matthew.hamilton1@monash.edu", role = c("aut", "cre"))
 Description: An in-development user interface to the avert comutational
     model. This is currently a placeholder app only.
-License: What license is it under?
+License: GPL (>= 3)
 URL: https://github.com/avertableburden/avertui
 BugReports: https://github.com/avertableburden/avertui/issues
 Imports: 
