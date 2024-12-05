@@ -1,6 +1,6 @@
 Package: avertui
 Title: Predict the Avertable Burden Of Mental Disorders
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: 
     person("Matthew", "Hamilton", , "matthew.hamilton1@monash.edu", role = c("aut", "cre"))
 Description: An in-development user interface to the avert comutational
