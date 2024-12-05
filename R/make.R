@@ -203,10 +203,10 @@ make_welcome_page <- function() {
           ),
           tags$p(
             class = "description",
-            "For the initial phase of development, only members of the development team will have access to all app input data.",
+            "For this version of the app, only members of the development team will have access to app input data.",
             tags$br(),
             tags$br(),
-            "However, input data that can be released publicly will be made available at https://dataverse.harvard.edu/dataverse/avert."
+            "However, input data that can be released publicly (including toy data) will be made available at https://dataverse.harvard.edu/dataverse/avert."
           )
         )
       )

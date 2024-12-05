@@ -30,9 +30,11 @@ You can launch the application by running:
 avertui::run_app()
 ```
 
+A web version is also currently available at https://0193901e-5d7c-7ad5-9210-9ccc0663a057.share.connect.posit.cloud/ 
+
 ## About
 
-You are reading the doc about version : 0.0.0.9000
+You are reading the doc about version : 0.0.0.9001
 
 This README has been compiled on the
 
